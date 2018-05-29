@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_All"
+            android:title="TẤT CẢ" />
+        <item
+            android:id="@+id/nav_Coffee"
+            android:title="COFFEE" />
+        <item
+            android:id="@+id/nav_IceCream"
+            android:title="ICE CREAM"/>
+        <item
+            android:id="@+id/nav_IceBlend"
+            android:title="ICE BLEND"/>
+        <item
+            android:id="@+id/nav_Lassi"
+            android:title="LASSI"/>
+        <item
+            android:id="@+id/nav_NuocEp"
+            android:title="NƯỚC ÉP"/>
+        <item
+            android:id="@+id/nav_SodaY"
+            android:title="SODA Ý" />
+        <item
+            android:id="@+id/nav_Tea"
+            android:title="TEA"/>
+        <item
+            android:id="@+id/nav_TraditionalDrink"
+            android:title="THỨC UỐNG TRUYỀN THỐNG"/>
+        <item
+            android:id="@+id/nav_Yogust_Shake"
+            android:title="YOGUST SHAKE" />
+
+
+
+
+
+
+
+    </group>
+
+
+
+</menu>
